@@ -1,2 +1,2 @@
 # CDKit
-Client Debug Kit
+Client Develop Kit
